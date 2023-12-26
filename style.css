@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+
+.partySlot{
+    background-color: red;
+    width: 200px;
+    height: 275px;
+    display: inline-block;
+    position: relative;
+    margin-right: 25px;
+}
+
+.pokeball{
+    width: 200px;
+    height: 200px;
+    background-image: url(img/pokeball.png);
+    background-size: 100%;
+    display: inline-block;
+}
+
+.pokemon{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
